@@ -7,7 +7,7 @@ public class Main {
         System.out.printf("Hello and welcome!");
         System.out.println("hmmmmm");
         System.out.println("OKAYYYY");
-        System.out.printlm("I added this part in github, jopefully it works or I WILL CRASH OUT...");
+        System.out.println("I added this part in github, jopefully it works or I WILL CRASH OUT...");
 
 
         for (int i = 1; i <= 5; i++) {
